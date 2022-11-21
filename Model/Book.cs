@@ -1,4 +1,6 @@
-﻿namespace BookListRazor.wwwroot.Model
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace BookListRazor.wwwroot.Model
 {
     public class Book
     {
